@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi, I'm Bill 👋
 
-<!--
-**blloop/blloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a calendar app in React
+- 🌱 I’m learning JS frameworks (Angular, NextJS)
+- 🤔 I'm pursuing a Bachelors in Comp Sci with a minor in Linguistics
+- 🔍 I’m interested in how technology can interact with language
+- 🏃‍♂️ Ask me about my apirations with running fast
+- 📫 You can reach me at: blloop@uw.edu
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I've never left the West Coast
+- 👀 See my personal [website](https://www.bill-yu.dev)
 
-Here are some ideas to get you started:
+### My Favorite Languages :brain:
+<a href="#"><img src="https://img.shields.io/badge/-HTML-e34c26?style=flat-square" style="height: 30px" href="#"></a>
+<a href="#"><img src="https://img.shields.io/badge/-CSS-2965f1?style=flat-square" style="height: 30px" href="#"></a>
+<a href="#"><img src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square" style="height: 30px" href="#"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Python-4584b6?style=flat-square" style="height: 30px" href="#"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Other Languages I've Learned :computer:
+<a href="#"><img src="https://img.shields.io/badge/-C-283593?style=flat-square" style="height: 30px" href="#"></a>
+<a href="#"><img src="https://img.shields.io/badge/-C++-487cb4?style=flat-square" style="height: 30px" href="#"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Java-f89820?style=flat-square" style="height: 30px" href="#"></a>
+<a href="#"><img src="https://img.shields.io/badge/-R-165caa?style=flat-square" style="height: 30px" href="#"></a>
+
+### Highlights :fire:
+<a href=""><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=blloop&theme=radical"/></a>
+
+---
+Last Edited on: 2023/01/19
