@@ -3,10 +3,10 @@
 - 🔭 I’m currently working on a calendar app in React
 - 🌱 I’m learning JS frameworks (Angular, NextJS)
 - 🤔 I’m interested in how technology can interact with language
-- 🏃‍♂️ Ask me about my apirations with running fast
+- 🏃‍♂️ I'm passionate about sprinting
 - 📫 You can reach me at: blloop@uw.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I've never left the West Coast
+- ⚡ Fun fact: I've never been outside of the West Coast
 
 ### My Favorite Languages :brain:
 <a href="#"><img src="https://img.shields.io/badge/-HTML-e34c26?style=flat-square" style="height: 30px" href="#"></a>
