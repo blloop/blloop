@@ -1,24 +1,20 @@
 ## Hi, I'm Bill 👋
 
-- 🔭 I’m currently working on a calendar app in React
-- 🌱 I’m learning Angular
-- 🤔 I’m interested in how technology can interact with language
+- 📆 I’m currently working on a calendar app in React
+- 🌱 I’m looking to learn new frontend platforms
+- 💭I’m interested in how technology can interact with language
 - 🏃‍♂️ Ask me about my goals with sprinting
 - 📫 You can reach me at: blloop@uw.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I've never left the West Coast
-
-### Technologies I Use 🏁
-<a href="#"><img src="https://img.shields.io/badge/-React-63dbf9?style=flat-square" style="height: 30px" href="#"></a>
-<a href="#"><img src="https://img.shields.io/badge/-MongoDB-54b449?style=flat-square" style="height: 30px" href="#"></a>
+- ⚡ Fun fact: I haven't been outside of the West Coast
 
 ### My Favorite Languages 🧠
-<a href="#"><img src="https://img.shields.io/badge/-HTML-e34c26?style=flat-square" style="height: 30px" href="#"></a>
-<a href="#"><img src="https://img.shields.io/badge/-CSS-2965f1?style=flat-square" style="height: 30px" href="#"></a>
 <a href="#"><img src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square" style="height: 30px" href="#"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Python-4584b6?style=flat-square" style="height: 30px" href="#"></a>
 
 ### Other Languages I've Learned :computer:
+<a href="#"><img src="https://img.shields.io/badge/-HTML-e34c26?style=flat-square" style="height: 30px" href="#"></a>
+<a href="#"><img src="https://img.shields.io/badge/-CSS-2965f1?style=flat-square" style="height: 30px" href="#"></a>
 <a href="#"><img src="https://img.shields.io/badge/-C-283593?style=flat-square" style="height: 30px" href="#"></a>
 <a href="#"><img src="https://img.shields.io/badge/-C++-487cb4?style=flat-square" style="height: 30px" href="#"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Java-f89820?style=flat-square" style="height: 30px" href="#"></a>
