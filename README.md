@@ -12,22 +12,34 @@
 ### Technology I Use :gear:
 <table>
   <tr>
-    <td><a href="#"><img src="logo/js.png" width="60px" height="60px" href="#"></a></td>
+    <td><a href="#" style="pointer-events: none;">
+      <img src="logo/js.png" width="60px" height="60px" href="#">
+    </a></td>
     <td><b>JavaScript</b><br>Language</td>
-    <td><a href="#"><img src="logo/python.png" width="60px" height="60px" href="#"></a></td>
+    <td><a href="#" style="pointer-events: none;">
+      <img src="logo/python.png" width="60px" height="60px" href="#">
+    </a></td>
     <td><b>Python</b><br>Language</td>
-    <td><a href="#"><img src="logo/cpp.png" width="60px" height="60px" href="#"></a></td>
+    <td><a href="#" style="pointer-events: none;">
+      <img src="logo/cpp.png" width="60px" height="60px" href="#">
+    </a></td>
     <td><b>C++</b><br>Language</td>
   </tr>
   <tr>
-    <td><a href="#"><img src="logo/node.png" width="60px" height="60px" href="#"></a></td>
+    <td><a href="#" style="pointer-events: none;">
+      <img src="logo/node.png" width="60px" height="60px" href="#">
+    </a></td>
     <td><b>NodeJS</b><br>Framework</td>
-    <td><a href="#"><img src="logo/react.png" width="60px" height="60px" href="#"></a></td>
+    <td><a href="#" style="pointer-events: none;">
+      <img src="logo/react.png" width="60px" height="60px" href="#">
+    </a></td>
     <td><b>React</b><br>Library</td>
-    <td><a href="#"><img src="logo/postgres.png" width="60px" height="60px" href="#"></a></td>
+    <td><a href="#" style="pointer-events: none;">
+      <img src="logo/postgres.png" width="60px" height="60px" href="#">
+    </a></td>
     <td><b>PostgreSQL</b><br>Database</td>
   </tr>
 </table>
 
 ### Highlights :octopus:
-<a href="#"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=blloop&theme=onedark-duo"/></a>
+<a href="#" style="pointer-events: none;"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=blloop&theme=onedark-duo"/></a>
