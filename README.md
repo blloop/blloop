@@ -1,8 +1,8 @@
 <img src="bg.png" width="100%" height="auto">
 <hr>
 
-* :earth_americas: I'm working with Terra GIS, helping to create interactive GIS maps
-* :seedling: I'm looking to revisit game dev this summer with small projects
+* :earth_americas: I'm working with Terra GIS, developing interactive web maps
+* :seedling: I'm developing my backend skills using Django and PostgreSQL
 * :thought_balloon: I’m interested in how technology can interact with language
 * :running: Ask me about my goals as a hobby sprinter
 * :musical_keyboard: I enjoy bouldering, hiking, reading, and playing the piano
@@ -21,9 +21,9 @@
     </a></td>
     <td><b>Python</b><br>Language</td>
     <td><a href="#" style="pointer-events: none;">
-      <img src="logo/cpp.png" width="60px" height="60px" href="#">
+      <img src="logo/java.png" width="60px" height="60px" href="#">
     </a></td>
-    <td><b>C++</b><br>Language</td>
+    <td><b>Java</b><br>Language</td>
   </tr>
   <tr>
     <td><a href="#" style="pointer-events: none;">
