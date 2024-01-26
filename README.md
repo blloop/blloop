@@ -1,30 +1,27 @@
 ```
- █████   █████  ███         █████  ██                    ███████████   ███  ████  ████ 
-░░███   ░░███  ░░░         ░░███  ███                   ░░███░░░░░███ ░░░  ░░███ ░░███ 
- ░███    ░███  ████         ░███ ░░░  █████████████      ░███    ░███ ████  ░███  ░███ 
- ░███████████ ░░███         ░███     ░░███░░███░░███     ░██████████ ░░███  ░███  ░███ 
- ░███░░░░░███  ░███         ░███      ░███ ░███ ░███     ░███░░░░░███ ░███  ░███  ░███ 
- ░███    ░███  ░███         ░███      ░███ ░███ ░███     ░███    ░███ ░███  ░███  ░███ 
- █████   █████ █████  ██    █████     █████░███ █████    ███████████  █████ █████ █████
-░░░░░   ░░░░░ ░░░░░  ██    ░░░░░     ░░░░░ ░░░ ░░░░░    ░░░░░░░░░░░  ░░░░░ ░░░░░ ░░░░░ 
+ █████   █████   ███         █████   ██                     ███████████    ███   ████   ████ 
+░░███   ░░███   ░░░         ░░███   ███                    ░░███░░░░░███  ░░░   ░░███  ░░███ 
+ ░███    ░███   ████         ░███  ░░░   █████████████      ░███    ░███  ████   ░███   ░███ 
+ ░███████████  ░░███         ░███       ░░███░░███░░███     ░██████████  ░░███   ░███   ░███ 
+ ░███░░░░░███   ░███         ░███        ░███ ░███ ░███     ░███░░░░░███  ░███   ░███   ░███ 
+ ░███    ░███   ░███         ░███        ░███ ░███ ░███     ░███    ░███  ░███   ░███   ░███ 
+ █████   █████  █████  ██    █████       █████░███ █████    ███████████   █████  █████  █████
+░░░░░   ░░░░░  ░░░░░  ██    ░░░░░       ░░░░░ ░░░ ░░░░░    ░░░░░░░░░░░   ░░░░░  ░░░░░  ░░░░░ 
                     ░░                                                                 
 ```
+> :world_map: I'm working with Terra GIS to create interactive web maps
 
-<hr>
+> :sunflower: I'm developing my backend skills using Django and PostgreSQL
 
-> :earth_americas: I'm working with Terra GIS, developing interactive web maps
+> :tongue: I’m interested in how technology can interact with language
 
-> :seedling: I'm developing my backend skills using Django and PostgreSQL
+> :runner: Ask me about my goals as a hobby sprinter
 
-> :thought_balloon: I’m interested in how technology can interact with language
+> :basketball: I enjoy reading, bouldering, basketball, and playing the piano + guitar
 
-> :running: Ask me about my goals as a hobby sprinter
+> :envelope: You can reach me at: blloop@uw.edu
 
-> :musical_keyboard: I enjoy bouldering, hiking, reading, and playing the piano
-
-> :mailbox: You can reach me at: blloop@uw.edu
-
-> :smiley: Pronouns: he/him/his                                                                 
+> :cowboy_hat_face: Pronouns: he/him/his                                                                 
 
 ### Technology I Use :gear:
 <table>
