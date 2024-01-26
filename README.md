@@ -1,13 +1,30 @@
-<img src="bg.png" width="100%" height="auto">
+```
+ █████   █████  ███         █████  ██                    ███████████   ███  ████  ████ 
+░░███   ░░███  ░░░         ░░███  ███                   ░░███░░░░░███ ░░░  ░░███ ░░███ 
+ ░███    ░███  ████         ░███ ░░░  █████████████      ░███    ░███ ████  ░███  ░███ 
+ ░███████████ ░░███         ░███     ░░███░░███░░███     ░██████████ ░░███  ░███  ░███ 
+ ░███░░░░░███  ░███         ░███      ░███ ░███ ░███     ░███░░░░░███ ░███  ░███  ░███ 
+ ░███    ░███  ░███         ░███      ░███ ░███ ░███     ░███    ░███ ░███  ░███  ░███ 
+ █████   █████ █████  ██    █████     █████░███ █████    ███████████  █████ █████ █████
+░░░░░   ░░░░░ ░░░░░  ██    ░░░░░     ░░░░░ ░░░ ░░░░░    ░░░░░░░░░░░  ░░░░░ ░░░░░ ░░░░░ 
+                    ░░                                                                 
+```
+
 <hr>
 
-* :earth_americas: I'm working with Terra GIS, developing interactive web maps
-* :seedling: I'm developing my backend skills using Django and PostgreSQL
-* :thought_balloon: I’m interested in how technology can interact with language
-* :running: Ask me about my goals as a hobby sprinter
-* :musical_keyboard: I enjoy bouldering, hiking, reading, and playing the piano
-* :mailbox: You can reach me at: blloop@uw.edu
-* :smiley: Pronouns: he/him/his
+> :earth_americas: I'm working with Terra GIS, developing interactive web maps
+
+> :seedling: I'm developing my backend skills using Django and PostgreSQL
+
+> :thought_balloon: I’m interested in how technology can interact with language
+
+> :running: Ask me about my goals as a hobby sprinter
+
+> :musical_keyboard: I enjoy bouldering, hiking, reading, and playing the piano
+
+> :mailbox: You can reach me at: blloop@uw.edu
+
+> :smiley: Pronouns: he/him/his                                                                 
 
 ### Technology I Use :gear:
 <table>
