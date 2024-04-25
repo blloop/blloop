@@ -14,7 +14,7 @@ Yb, `88       88                d8   8b ""                       Yb,  88      `8
 ```
 > :world_map: I'm working with Terra GIS to create interactive web maps
 > 
-> :sunflower: I'm developing my backend skills using Django and PostgreSQL
+> :sunflower: I'm developing my backend skills using Express and MongoDB
 > 
 > :tongue: I’m interested in how technology can interact with language
 > 
@@ -48,13 +48,13 @@ Yb, `88       88                d8   8b ""                       Yb,  88      `8
     </a></td>
     <td><b>NodeJS</b><br>Framework</td>
     <td><a href="#" style="pointer-events: none;">
-      <img src="logo/react.png" width="60px" height="60px" href="#">
+      <img src="logo/nextjs.png" width="60px" height="60px" href="#">
     </a></td>
-    <td><b>React</b><br>Library</td>
+    <td><b>NextJS</b><br>Framework</td>
     <td><a href="#" style="pointer-events: none;">
-      <img src="logo/postgres.png" width="60px" height="60px" href="#">
+      <img src="logo/mongodb.png" width="60px" height="60px" href="#">
     </a></td>
-    <td><b>PostgreSQL</b><br>Database</td>
+    <td><b>MongoDB</b><br>Database</td>
   </tr>
 </table>
 
