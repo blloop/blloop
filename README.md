@@ -1,5 +1,5 @@
 <h2> Hey, I'm Bill!</h2>
-<img align='right' src="assets/moon.gif" width="230">
+<img align="right" src="assets/moon.gif" width="230">
 
 [![linkedin](assets/linkedin.svg)](https://linkedin.com/in/billyu32)
 [![website](assets/website.svg)](https://blloop.com)
@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td><a href="#" style="pointer-events: none;">
-      <img src="logo/js.png" width="60px" height="60px" href="#">
+      <img src="logo/javscript.png" width="60px" height="60px" href="#">
     </a></td>
     <td><b>JavaScript</b><br>Language</td>
     <td><a href="#" style="pointer-events: none;">
@@ -28,7 +28,7 @@
     </a></td>
     <td><b>NextJS</b><br>Framework</td>
    <td><a href="#" style="pointer-events: none;">
-      <img src="logo/node.png" width="60px" height="60px" href="#">
+      <img src="logo/nodejs.png" width="60px" height="60px" href="#">
     </a></td>
     <td><b>NodeJS</b><br>Framework</td>
     <td><a href="#" style="pointer-events: none;">
@@ -38,5 +38,5 @@
   </tr>
 </table>
 
-### Highlights :octopus:
+### Highlights:
 <a href="#" style="pointer-events: none;"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=blloop&theme=onedark-duo"/></a>
