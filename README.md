@@ -1,5 +1,5 @@
 <h2> Hey, I'm Bill!</h2>
-<img align="right" src="assets/rain.gif" width="540">
+<img align="right" src="assets/rain.gif" width="400">
 
 [![linkedin](assets/linkedin.svg)](https://linkedin.com/in/billyu32)
 [![website](assets/website.svg)](https://blloop.com)
