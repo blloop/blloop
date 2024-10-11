@@ -1,10 +1,10 @@
 <h2> Hey, I'm Bill!</h2>
-<img align="right" src="assets/rain.gif" width="400">
+<img align="right" src="assets/spin.gif" width="270">
 
 [![linkedin](assets/linkedin.svg)](https://linkedin.com/in/billyu32)
 [![website](assets/website.svg)](https://blloop.com)
 
-<p><em>Web Developer @ TerraGIS<br>Computer Science & Linguistics @ UW</em></p>
+<p><em>Computer Science + Linguistics @ UW, Web Developer @ TerraGIS</em></p>
 
 ### My Current Stack:
 <table>
@@ -14,19 +14,27 @@
     </a></td>
     <td><b>NextJS</b><br>Framework</td>
     <td><a href="#" style="pointer-events: none;">
-      <img src="assets/tailwind.png" width="60px" height="60px" href="#">
-    </a></td>
-    <td><b>TailwindCSS</b><br>Library</td>
-  </tr>
-  <tr>
-   <td><a href="#" style="pointer-events: none;">
       <img src="assets/nodejs.png" width="60px" height="60px" href="#">
     </a></td>
-    <td><b>NodeJS</b><br>Framework</td>
+    <td><b>NodeJS</b><br>Environment</td>
+    <td><a href="#" style="pointer-events: none;">
+      <img src="assets/typescript.png" width="60px" height="60px" href="#">
+    </a></td>
+    <td><b>TypeScript</b><br>Language</td>
+  </tr>
+  <tr>
+    <td><a href="#" style="pointer-events: none;">
+      <img src="assets/prisma.png" width="60px" height="60px" href="#">
+    </a></td>
+    <td><b>Prisma</b><br>ORM</td>
     <td><a href="#" style="pointer-events: none;">
       <img src="assets/mongodb.png" width="60px" height="60px" href="#">
     </a></td>
     <td><b>MongoDB</b><br>Database</td>
+    <td><a href="#" style="pointer-events: none;">
+      <img src="assets/tailwind.png" width="60px" height="60px" href="#">
+    </a></td>
+    <td><b>TailwindCSS</b><br>Library</td>
   </tr>
 </table>
 
