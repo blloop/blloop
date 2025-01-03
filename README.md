@@ -1,10 +1,7 @@
 <h2> Hey, I'm Bill!</h2>
-<img align="right" src="assets/spin.gif" width="270">
 
 [![linkedin](assets/linkedin.svg)](https://linkedin.com/in/billyu32)
 [![website](assets/website.svg)](https://blloop.com)
-
-<p><em>Computer Science + Linguistics @ UW, Web Developer @ TerraGIS</em></p>
 
 ### My Current Stack:
 <table>
